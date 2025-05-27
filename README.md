@@ -15,7 +15,7 @@ Blitz is designed with the following core values in mind:
 
 ## Project Status
 
-This project is in early development stages. See the [RoadMap.md](RoadMap.md) file for the detailed development plan.
+This project is in early development stages. See the [RoadMap.md](https://github.com/MondMaulwurf918/Blitz/blob/main/blitz_compiler_python/RoadMap.md) file for the detailed development plan.
 
 ## Getting Started
 
