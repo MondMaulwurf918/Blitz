@@ -1,0 +1,6 @@
+// A basic Blitz program
+fn main() -> i32 {
+    let i32 x = 20;
+    printnl("Result: ");
+    return x;
+}

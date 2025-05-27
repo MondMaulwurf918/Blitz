@@ -1,0 +1,7 @@
+// A Blitz program demonstrating variables and arithmetic
+fn main() -> i32 {
+    let i32 x = 10;
+    let i32 y = 5;
+    let i32 result = x + y * 2;
+    printnl("Result: " + result);
+}

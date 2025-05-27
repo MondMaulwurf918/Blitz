@@ -1,0 +1,6 @@
+// A test program for string concatenation
+fn main() -> i32 {
+    let i32 number = 42;
+    printnl("The answer is: " + number);
+    return 0;
+}
