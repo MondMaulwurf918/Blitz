@@ -2,7 +2,7 @@
 
 ⚡️ A super-simple, whitespace-insensitive, lightning-fast compiled language with a clean syntax and a minimal runtime.
 
-## Philosophy & Design Principles
+## Design Principles
 
 Blitz is designed with the following core values in mind:
 
