@@ -41,7 +41,7 @@ fn main() -> i32 {
 
 ## License
 
-*TBD*
+*GPL-3.0*
 
 ## Contributing
 
