@@ -1,4 +1,4 @@
 // A simple Blitz program that returns 42
-fn main() -> i32 {
-    return 42;
+fn main() {
+    print("Hello World")
 }
